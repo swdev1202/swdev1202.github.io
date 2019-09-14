@@ -113,9 +113,9 @@ author:
   location         : "San Jose, CA"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: swdev1202@gmail.com
+    - # label: "Email"
+      # icon: "fas fa-fw fa-envelope-square"
+      # url: swdev1202@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://swdev1202.github.io/"
