@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Seung Won (Sean) Lee"
-  avatar           : "/images/profile.jpg"
+  avatar           : "/images/profile.png"
   bio              : "Self-driving Car and Computer Vision Lover"
   location         : "San Jose, CA"
   email            :
